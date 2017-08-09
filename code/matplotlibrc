@@ -1,0 +1,9 @@
+font.family: serif
+font.serif: Times
+font.size: 9.0
+legend.fontsize: 9.0
+legend.frameon: False
+text.usetex: True
+text.latex.preamble: \usepackage{times}
+text.latex.unicode: True
+axes.linewidth: 0.25
