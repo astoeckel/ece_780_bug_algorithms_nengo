@@ -32,9 +32,9 @@ an installation of `ffmpeg` and `libx264`.
 
 ## Building the presentation
 
-The presentation includes some videos produced bz the `visualize.py` script.
+The presentation includes some videos produced by the `visualize.py` script.
 Please use the included `pdf_to_html_presentation.sh` script to convert the
-compiled LaTeX Beamer PDF to an interactive HTML. The script requires the
+compiled LaTeX Beamer PDF to interactive HTML. The script requires the
 programs `qpdf`, `pdfinfo`, as well as `pdf2svg`.
 
 ## License
